@@ -1,0 +1,23 @@
+*{
+   
+    background: rgba(141, 201, 188, 0.87);
+    color: #101012;
+    font-family: 'Lora', serif;
+}
+    
+header{
+    
+    width:100%;
+    padding: 5px;
+    margin: 0px;
+    display: inline-block;
+    text-align: center;
+
+}
+li{
+    font-weight: 800;
+    font-size: 18px;
+}
+p{
+    font-size: 18px;
+}
